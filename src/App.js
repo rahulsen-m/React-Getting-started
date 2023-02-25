@@ -41,10 +41,11 @@ class App extends React.Component {
 
     return (
       <div className="App">
+      <h1 className="app-title">Monsters Rolodex</h1>
         <SearchBox
           onChangeHandler={onSearchChange}
           placeHolder={"search monsters"}
-          className={"serch-box"}
+          className={"monsters-serch-box"}
         />
         <CardList monsters={filteredMonsters} />
       </div>
