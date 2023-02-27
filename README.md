@@ -22,7 +22,7 @@ https://jsonplaceholder.typicode.com/users
 ### Used api for getting the user image
 https://robohash.org
 
-![]https://github.com/rahulsen-m/React-Getting-started/blob/master/react_assignment.gif
+![](react_assignment.gif)
 
 ###Folder structure
-![]https://github.com/rahulsen-m/React-Getting-started/blob/master/react%20files.PNG
+![My Image](react%20files.PNG)
